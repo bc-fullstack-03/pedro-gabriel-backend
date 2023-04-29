@@ -5,8 +5,6 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
-import sysmap.project.socialnetwork.model.Autor;
-import sysmap.project.socialnetwork.model.Comentario;
 
 import java.util.ArrayList;
 import java.util.List;
